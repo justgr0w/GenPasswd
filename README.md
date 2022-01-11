@@ -1,4 +1,4 @@
-# Calculadora hecha en C++
+# Generador de Contraseñas en C++
 
 <img src="https://github.com/justgr0w/GenPasswd/blob/main/Images/menu.png" width="500">
 
@@ -18,7 +18,7 @@ $ g++ -o GenPasswd -g main.cpp
 
 ~~~
 
-$ ./GenPasswd
+$ ./GenPasswd --gen large 8 --output PASSWORDS.txt
 
 ~~~
 
