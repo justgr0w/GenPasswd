@@ -1,6 +1,6 @@
 # Calculadora hecha en C++
 
-<img src="https://github.com/justgr0w/CalculatorCpp/blob/main/images/example.png" width="500">
+<img src="https://github.com/justgr0w/GenPasswd/blob/main/images/menu.png" width="500">
 
 ## Guía de como usar
 
@@ -10,37 +10,20 @@ luego escribimos esto:
 
 ~~~
 
-$ g++ -o Calc -g main.cpp
+$ g++ -o GenPasswd -g main.cpp
 
 ~~~
 
-## Usando el Binario que nos quedó
+## Probamos
 
 ~~~
 
-$ ./Calc
+$ ./GenPasswd
 
 ~~~
 
-<img src="https://github.com/justgr0w/CalculatorCpp/blob/main/images/help.png" width="500">
+<img src="https://github.com/justgr0w/GenPasswd/blob/main/images/example.png" width="500">
 
-Así nos demuestra la ayuda de como usarlo.
 
-## Pruebas
 
-* Prueba 1
-
-~~~
-
-$ ./Calc --sum 15 16 320 --debug
-
-~~~
-
-* Prueba 2
-
-~~~
-
-$ ./Calc --div 15000 16 320 
-
-~~~
 
