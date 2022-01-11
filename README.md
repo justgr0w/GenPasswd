@@ -1,6 +1,6 @@
 # Calculadora hecha en C++
 
-<img src="https://github.com/justgr0w/GenPasswd/blob/main/images/menu.png" width="500">
+<img src="https://github.com/justgr0w/GenPasswd/blob/main/Images/menu.png" width="500">
 
 ## Guía de como usar
 
@@ -22,7 +22,7 @@ $ ./GenPasswd
 
 ~~~
 
-<img src="https://github.com/justgr0w/GenPasswd/blob/main/images/example.png" width="500">
+<img src="https://github.com/justgr0w/GenPasswd/blob/main/Images/example.png" width="500">
 
 
 
